@@ -1,0 +1,1159 @@
+TTaptraceCopy
+v7
+r0
+t324043626.982139
+cCheck dependencies
+cProcessInfoPlistFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist TaptraceCopy-Info.plist
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/MainWindow.xib
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopyViewController.xib
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.xib
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.xib
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.xib
+cCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/GoogleMapViewController.xib
+cCopyPlistFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapSetting.plist TapSetting.plist
+cProcessPCH /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch.gch TaptraceCopy_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/Wrapper.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy normal i386
+cGenerateDSYMFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+cTouch /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.h
+c000000004D78F16100000000000002E3
+t1299771745
+s739
+i<UIKit/UIKit.h>
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m
+c000000004D78F495000000000000096F
+t1299772565
+s2415
+i"GoogleMapViewController.h"
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.h
+c000000004D7B793C00000000000003C4
+t1299937596
+s964
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.m
+c000000004D7B81740000000000001983
+t1299939700
+s6531
+i"GoogleMapViewController.h"
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.xib
+c000000004D7A05DE0000000000005949
+t1299842526
+s22857
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.h
+c000000004D78568A00000000000000DC
+t1299732106
+s220
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.m
+c000000004D78568A000000000000059A
+t1299732106
+s1434
+i"InputMessage.h"
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.xib
+c000000004D78568A000000000000185F
+t1299732106
+s6239
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.h
+c000000004D78E3EF000000000000016D
+t1299768303
+s365
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.m
+c000000004D7B45830000000000000C2D
+t1299924355
+s3117
+i"InputPassword.h"
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.xib
+c000000004D78E5460000000000006183
+t1299768646
+s24963
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.h
+c000000004D78F027000000000000014B
+t1299771431
+s331
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.m
+c000000004D7B665800000000000008A0
+t1299932760
+s2208
+i"SecondMainScreen.h"
+i"GoogleMapViewController.h"
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib
+c000000004D79F97E00000000000088A9
+t1299839358
+s34985
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.h
+c000000004D725D5400000000000001F7
+t1299340628
+s503
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m
+c000000004D724DC80000000000000AA8
+t1299336648
+s2728
+i"TaptraceCopyAppDelegate.h"
+i"TaptraceCopyViewController.h"
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.h
+c000000004D725C5100000000000001DA
+t1299340369
+s474
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.m
+c000000004D7B532F0000000000000B4B
+t1299927855
+s2891
+i"TaptraceCopyViewController.h"
+i"SecondMainScreen.h"
+i"InputPassword.h"
+
+N/Users/rouis/Documents/TaptraceCopy/GoogleMapViewController.xib
+c000000004D78EF5A0000000000001643
+t1299771226
+s5699
+
+N/Users/rouis/Documents/TaptraceCopy/MainWindow.xib
+c000000004D724DC80000000000004E65
+t1299336648
+s20069
+
+N/Users/rouis/Documents/TaptraceCopy/TapConfig.plist
+c000000004D78B9D50000000000000105
+t1299757525
+s261
+
+N/Users/rouis/Documents/TaptraceCopy/TaptraceCopyViewController.xib
+c000000004D726678000000000000A38C
+t1299342968
+s41868
+
+N/Users/rouis/Documents/TaptraceCopy/TaptraceCopy_Prefix.pch
+c000000004D724DC800000000000000C1
+t1299336648
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+t1299939702
+s408
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM
+t1299939702
+s102
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/GoogleMapViewController.nib
+t1299939702
+s1518
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist
+t1299859952
+s650
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputMessage.nib
+t1299768651
+s764
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputPassword.nib
+t1299768651
+s2186
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/MainWindow.nib
+t1299336691
+s1133
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/PkgInfo
+t1299859952
+s8
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/SecondMainScreen.nib
+t1299839365
+s3187
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapConfig.plist
+t1299768651
+s72
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+t1299939702
+s34580
+
+N/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopyViewController.nib
+t1299342970
+s3722
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapAppDelegate.o
+t2
+s0
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o
+t1299939702
+s58060
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o
+t1299768651
+s37504
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o
+t1299924359
+s47844
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o
+t1299937597
+s42000
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopy.LinkFileList
+c000000004D79F79800000000000003E0
+t1299838872
+s992
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o
+t1299340629
+s51280
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o
+t1299927863
+s42476
+
+N/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o
+t1299336692
+s6296
+
+N/Users/rouis/Documents/TaptraceCopy/main.m
+c000000004D724DC80000000000000168
+t1299336648
+s360
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.h
+c000000004D8EB9B800000000000003CC
+t1301199288
+s972
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m
+c000000004D8EB6F20000000000001A41
+t1301198578
+s6721
+i"GoogleMapViewController.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.xib
+c000000004D8EBA0400000000000060AA
+t1301199364
+s24746
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.h
+c000000004D9F46EC00000000000001AD
+t1302284012
+s429
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m
+c000000004D9F5537000000000000117C
+t1302287671
+s4476
+i"InputMessage.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.xib
+c000000004D9F50EA00000000000072DC
+t1302286570
+s29404
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.h
+c000000004DA04B3A0000000000000229
+t1302350650
+s553
+i<UIKit/UIKit.h>
+i"TaptraceCopyViewController.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m
+c000000004DA04BE4000000000000124E
+t1302350820
+s4686
+i"InputPassword.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.xib
+c000000004DA03D5E0000000000008320
+t1302347102
+s33568
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.h
+c000000004D9DEBE7000000000000036D
+t1302195175
+s877
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"WrapperDelegate.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m
+c000000004D9F36E30000000000002981
+t1302279907
+s10625
+i"SecondMainScreen.h"
+i"GoogleMapViewController.h"
+i"Wrapper.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib
+c000000004D8DBD690000000000008E4F
+t1301134697
+s36431
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.h
+c000000004D7C674300000000000001F7
+t1299998531
+s503
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m
+c000000004DA04A190000000000001143
+t1302350361
+s4419
+i"TaptraceCopyAppDelegate.h"
+i"TaptraceCopyViewController.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.h
+c000000004D9DEBE70000000000000276
+t1302195175
+s630
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m
+c000000004DA04B7C0000000000000CD8
+t1302350716
+s3288
+i"TaptraceCopyViewController.h"
+i"SecondMainScreen.h"
+i"InputPassword.h"
+i"InputMessage.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.h
+c000000004D9F031D0000000000000477
+t1302266653
+s1143
+i<Foundation/Foundation.h>
+i"WrapperDelegate.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m
+c000000004D8CDE770000000000002A3C
+t1301077623
+s10812
+i"Wrapper.h"
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/WrapperDelegate.h
+c000000004D8CB9B60000000000000272
+t1301068214
+s626
+i<Foundation/Foundation.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/GoogleMapViewController.xib
+c000000004D78EF5A0000000000001643
+t1299771226
+s5699
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/MainWindow.xib
+c000000004D724DC80000000000004E65
+t1299336648
+s20069
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/TapConfig.plist
+c000000004D78B9D50000000000000105
+t1299757525
+s261
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/TapSetting.plist
+c000000004D9DD07700000000000001B3
+t1302188151
+s435
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopyViewController.xib
+c000000004D998758000000000000AAFC
+t1301907288
+s43772
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopy_Prefix.pch
+c000000004D724DC800000000000000C1
+t1299336648
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+t1302350826
+s476
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM
+t1302350826
+s102
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/GoogleMapViewController.nib
+t1302350826
+s1600
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist
+t1301907195
+s647
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputMessage.nib
+t1302346853
+s2278
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputPassword.nib
+t1302347115
+s3022
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/MainWindow.nib
+t1299336691
+s1133
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/PkgInfo
+t1301907195
+s8
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/SecondMainScreen.nib
+t1301134699
+s3246
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapConfig.plist
+t1299768651
+s72
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapSetting.plist
+t1302188614
+s123
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+t1302350826
+s65036
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopyViewController.nib
+t1301907296
+s3880
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/message.txt
+t1301202522
+s0
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o
+t1301199369
+s52884
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o
+t1302346854
+s45516
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o
+t1302350826
+s45336
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o
+t1302346854
+s73256
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopy.LinkFileList
+c000000004D8D722E00000000000004C4
+t1301115438
+s1220
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o
+t1302350717
+s59312
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o
+t1302350717
+s46608
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/Wrapper.o
+t1302271373
+s37608
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o
+t1299951452
+s6320
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/GoogleMapViewController.plist
+t1301125780
+s276
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/InputMessage.plist
+t1301125779
+s276
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/InputPassword.plist
+t1301125779
+s5712
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/SecondMainScreen.plist
+t1301125779
+s276
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/TaptraceCopyAppDelegate.plist
+t1301125779
+s276
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/TaptraceCopyViewController.plist
+t1301125779
+s276
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/Wrapper.plist
+t1301125780
+s8790
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/main.plist
+t1301125779
+s276
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/main.m
+c000000004D724DC80000000000000168
+t1299336648
+s360
+i<UIKit/UIKit.h>
+
+N/Users/rouis/Public/iPhone/example/TaptraceCopy/message.txt
+c000000004D8EBB7D0000000000000000
+t1301199741
+s0
+
+N/var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch.gch
+t1299336692
+s15453392
+
+N/var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch.gch
+t1299951452
+s15453392
+
+N/var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch.pth
+t1301125779
+s2784044
+
+NTaptraceCopy-Info.plist
+c000000004D9981FB0000000000000392
+t1301905915
+s914
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m
+s322818579.996886
+e322818580.108124
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m
+lSLF07#2@89"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m322818579#322818580#0(0"0(0#0#81"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m8620823840#2168"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/GoogleMapViewController.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m
+s322818579.953568
+e322818580.000701
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m
+lSLF07#2@78"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m322818579#322818580#0(0"0(0#0#70"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m8621219776#2146"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/InputMessage.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m
+s322818579.942168
+e322818579.996801
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m
+o/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m:29:33: warning: Potential leak of an object allocated on line 29 and stored into 'plistdict'
+o         NSMutableDictionary *plistdict=[[NSMutableDictionary alloc] initWithContentsOfFile:plistpath];
+o                                        ^
+o1 warning generated.
+lSLF07#2@79"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m322818579#322818580#0(332"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m:29:33: warning: Potential leak of an object allocated on line 29 and stored into 'plistdict'         NSMutableDictionary *plistdict=[[NSMutableDictionary alloc] initWithContentsOfFile:plistpath];                                        ^1 warning generated.1(0@76"Potential leak of an object allocated on line 29 and stored into 'plistdict'322818579#18446744073709551615#0#5(17@0"322818579#18446744073709551615#0#0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#0#0#0#0#0"0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#0#0#0#0#1(3@6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#16#2#16#2#6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#29#2#29#2#17@0"322818579#18446744073709551615#0#0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#0#0#0#0#0"0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#0#0#0#0#1(3@6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#29#2#29#2#6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#29#33#29#94#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)322818579#18446744073709551615#0#0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#29#33#0#0#0"1(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#29#33#29#94#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"322818579#18446744073709551615#0#0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#0#0#0#0#0"0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#0#0#0#0#1(3@6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#29#33#29#94#6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#37#2#37#7#21@141"Object allocated on line 29 and stored into 'plistdict' is no longer referenced after this point and has a retain count of +1 (object leaked)322818579#18446744073709551615#0#0(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#37#2#0#0#0"1(6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#37#2#37#7#141"Object allocated on line 29 and stored into 'plistdict' is no longer referenced after this point and has a retain count of +1 (object leaked)6@71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m321644647#37#2#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m8621808960#2148"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/InputPassword.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m
+s322818579.876342
+e322818579.953476
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m
+lSLF07#2@82"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m322818579#322818579#0(0"0(0#0#74"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m8590188544#2154"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/SecondMainScreen.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m
+s322818579.772997
+e322818579.876067
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m
+lSLF07#2@89"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m322818579#322818579#0(0"0(0#0#81"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m8618796064#2168"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/TaptraceCopyAppDelegate.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m
+s322818579.872366
+e322818579.942077
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m
+lSLF07#2@92"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m322818579#322818579#0(0"0(0#0#84"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m8617534560#2174"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/TaptraceCopyViewController.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m
+s322818580.000790
+e322818580.093395
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m
+o/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m:237:9: warning: Object sent -autorelease too many times
+o         [[challenge sender] useCredential:credential 
+o         ^
+o1 warning generated.
+lSLF07#2@73"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322818580#322818580#0(209"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m:237:9: warning: Object sent -autorelease too many times         [[challenge sender] useCredential:credential          ^1 warning generated.1(0@39"Object sent -autorelease too many times322818580#18446744073709551615#0#8(17@0"322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#0"0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#1(3@6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#231#5#231#5#6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#232#5#232#5#17@0"322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#0"0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#1(3@6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#232#5#232#5#6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#9#234#9#17@0"322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#0"0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#1(3@6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#9#234#9#6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#40#236#106#21@82"Method returns an Objective-C object with a +0 retain count (non-owning reference)322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#40#0#0#0"1(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#40#236#106#82"Method returns an Objective-C object with a +0 retain count (non-owning reference)17@0"322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#0"0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#1(3@6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#40#236#106#6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#39#236#119#21@32"Object sent -autorelease message322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#39#0#0#0"2(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#39#236#119#6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#40#236#106#32"Object sent -autorelease message17@0"322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#0"0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#0#0#0#0#1(3@6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#234#39#236#119#6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#237#9#238#52#21@110"Object over-autoreleased: object was sent -autorelease but the object has zero (locally visible) retain counts322818580#18446744073709551615#0#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#237#9#0#0#0"1(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#237#9#238#52#110"Object over-autoreleased: object was sent -autorelease but the object has zero (locally visible) retain counts6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#237#9#0#0#36"Memory (Core Foundation/Objective-C)0(39"Object sent -autorelease too many times0#0#65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m8619045056#2136"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/Wrapper.plist0#
+
+CAnalyze /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m
+s322818579.771873
+e322818579.872271
+r1
+xAnalyze
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/main.m
+lSLF07#2@62"Analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m322818579#322818579#0(0"0(0#0#54"/Users/rouis/Public/iPhone/example/TaptraceCopy/main.m8619091328#2122"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch --analyze /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324043626#324043626#0(0"0(0#1#0"8618818336#0"0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapAppDelegate.o /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321529811.746725
+e321529812.957115
+r0
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapAppDelegate.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:86: warning: cannot find interface declaration for 'GoogleMapAppDelegate'
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:86: error: no declaration of property 'viewController' found in the interface
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m: In function '-[GoogleMapAppDelegate dealloc]':
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:108: error: 'viewController' undeclared (first use in this function)
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:108: error: (Each undeclared identifier is reported only once
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:108: error: for each function it appears in.)
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:109: error: 'window' undeclared (first use in this function)
+o/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:110: error: no super class declared in @interface for 'GoogleMapAppDelegate'
+lSLF07#2@74"Compile /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m321529811#321529812#0(1051"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:86: warning: cannot find interface declaration for 'GoogleMapAppDelegate'/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:86: error: no declaration of property 'viewController' found in the interface/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m: In function '-[GoogleMapAppDelegate dealloc]':/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:108: error: 'viewController' undeclared (first use in this function)/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:108: error: (Each undeclared identifier is reported only once/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:108: error: for each function it appears in.)/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:109: error: 'window' undeclared (first use in this function)/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m:110: error: no super class declared in @interface for 'GoogleMapAppDelegate'5(22@60"Cannot find interface declaration for 'GoogleMapAppDelegate'321529812#0#141#0(6@66"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m321465365#86#0#86#0#0"0(4@66"No declaration of property 'viewController' found in the interface321529812#141#145#0(6@66"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m321465365#86#0#86#0#0"0(4@56"'viewController' undeclared (first use in this function)321529812#401#136#0(6@66"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m321465365#108#0#108#0#43"'*' undeclared (first use in this function)0(4@48"'window' undeclared (first use in this function)321529812#779#128#0(6@66"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m321465365#109#0#109#0#43"'*' undeclared (first use in this function)0(4@64"No super class declared in @interface for 'GoogleMapAppDelegate'321529812#907#144#0(6@66"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m321465365#110#0#110#0#0"0(0#0#66"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m8593584640#2021"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapAppDelegate.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapAppDelegate.o1#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321632502.690379
+e321632502.879481
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.m321632502#321632502#0(0"0(0#0#69"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.m8680887264#2027"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322892169.668517
+e322892169.785676
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m322892169#322892169#0(0"0(0#0#81"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m8608246880#2159"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/GoogleMapViewController.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o /Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321461451.756716
+e321461451.816638
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.m321461451#321461451#0(0"0(0#0#58"/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.m8628829696#2005"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324039654.144039
+e324039654.332269
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m324039654#324039654#0(0"0(0#0#70"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m8620405824#2137"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputMessage.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o /Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321617159.681870
+e321617159.847835
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.m321617159#321617159#0(0"0(0#0#59"/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.m8624901824#2007"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324043626.782635
+e324043626.922654
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m324043626#324043626#0(0"0(0#0#71"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m8622842976#2139"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/InputPassword.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o /Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321630397.194294
+e321630397.292353
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.m321630397#321630397#0(0"0(0#0#62"/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.m8630727008#2013"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324039653.401333
+e324039654.263956
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m324039653#324039654#0(0"0(0#0#74"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m8619449632#2145"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/SecondMainScreen.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o /Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321033429.352438
+e321033429.449833
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m321033429#321033429#0(0"0(0#0#69"/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m8612892256#2027"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324043517.181510
+e324043517.372769
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m324043517#324043517#0(0"0(0#0#81"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m8623373312#2159"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyAppDelegate.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyAppDelegate.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o /Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321620663.376588
+e321620663.521026
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o
+x/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.m321620663#321620663#0(0"0(0#0#72"/Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.m8625347936#2033"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/Classes/TaptraceCopyViewController.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324043517.243022
+e324043517.453642
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m324043517#324043517#0(0"0(0#0#84"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m8626335584#2165"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/TaptraceCopyViewController.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopyViewController.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/Wrapper.o /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323964172.668660
+e323964173.861120
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/Wrapper.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m: In function '-[Wrapper startConnection:]':
+o/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m:205: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)
+lSLF07#2@73"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m323964172#323964173#0(402"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m: In function '-[Wrapper startConnection:]':/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m:205: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)1(22@211"'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)323964173#110#292#0(6@65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m322770423#205#0#205#0#33"'*' is deprecated (declared at *)0(0#0#65"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m8610026528#2127"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/Wrapper.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/Wrapper.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o /Users/rouis/Documents/TaptraceCopy/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321029492.819351
+e321029492.984144
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o
+x/Users/rouis/Documents/TaptraceCopy/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/rouis/Documents/TaptraceCopy/main.m321029492#321029492#0(0"0(0#0#42"/Users/rouis/Documents/TaptraceCopy/main.m8610410624#1981"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch -c /Users/rouis/Documents/TaptraceCopy/main.m -o /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321644252.115394
+e321644252.172196
+r1
+xCompileC
+xbuild/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m321644252#321644252#0(0"0(0#0#54"/Users/rouis/Public/iPhone/example/TaptraceCopy/main.m8676452928#2113"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -include /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/main.m -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.xib
+s321632502.262174
+e321632502.689636
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.xib
+lSLF07#2@46"CompileXIB Classes/GoogleMapViewController.xib321632502#321632502#0(0"0(0#0#71"/Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.xib8631548064#600"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/GoogleMapViewController.nib /Users/rouis/Documents/TaptraceCopy/Classes/GoogleMapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.xib
+s321461450.668389
+e321461451.066852
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.xib
+lSLF07#2@35"CompileXIB Classes/InputMessage.xib321461450#321461451#0(0"0(0#0#60"/Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.xib8628592640#578"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputMessage.nib /Users/rouis/Documents/TaptraceCopy/Classes/InputMessage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.xib
+s321461450.667455
+e321461451.162802
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.xib
+lSLF07#2@36"CompileXIB Classes/InputPassword.xib321461450#321461451#0(0"0(0#0#61"/Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.xib8628816992#580"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputPassword.nib /Users/rouis/Documents/TaptraceCopy/Classes/InputPassword.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib
+s321532164.821332
+e321532165.361605
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib:17: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'buttonBackPressed:' selector of 'File's Owner', but 'buttonBackPressed:' is no longer defined on 'SecondMainScreen'.
+lSLF07#2@39"CompileXIB Classes/SecondMainScreen.xib321532164#321532165#0(310"/* com.apple.ibtool.document.warnings *//Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib:17: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'buttonBackPressed:' selector of 'File's Owner', but 'buttonBackPressed:' is no longer defined on 'SecondMainScreen'.1(22@190"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'buttonBackPressed:' selector of 'File's Owner', but 'buttonBackPressed:' is no longer defined on 'SecondMainScreen'.321532165#18446744073709551615#0#0(6@64"/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib321532158#17#0#17#0#0"0(0#0#64"/Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib8607619872#586"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/SecondMainScreen.nib /Users/rouis/Documents/TaptraceCopy/Classes/SecondMainScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/GoogleMapViewController.xib
+s321631230.242414
+e321631230.621598
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/GoogleMapViewController.xib
+lSLF07#2@38"CompileXIB GoogleMapViewController.xib321631230#321631230#0(0"0(0#0#63"/Users/rouis/Documents/TaptraceCopy/GoogleMapViewController.xib8626480960#592"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/GoogleMapViewController.nib /Users/rouis/Documents/TaptraceCopy/GoogleMapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/MainWindow.xib
+s321029491.301810
+e321029491.779085
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321029491#321029491#0(0"0(0#0#50"/Users/rouis/Documents/TaptraceCopy/MainWindow.xib8609925248#566"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/MainWindow.nib /Users/rouis/Documents/TaptraceCopy/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Documents/TaptraceCopy/TaptraceCopyViewController.xib
+s321035769.657109
+e321035770.139190
+r1
+xCompileXIB
+x/Users/rouis/Documents/TaptraceCopy/TaptraceCopyViewController.xib
+lSLF07#2@41"CompileXIB TaptraceCopyViewController.xib321035769#321035770#0(0"0(0#0#66"/Users/rouis/Documents/TaptraceCopy/TaptraceCopyViewController.xib8604439936#598"    cd /Users/rouis/Documents/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopyViewController.nib /Users/rouis/Documents/TaptraceCopy/TaptraceCopyViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.xib
+s324043626.333835
+e324043626.782091
+r1
+xCompileXIB
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.xib
+lSLF07#2@46"CompileXIB Classes/GoogleMapViewController.xib324043626#324043626#0(0"0(0#0#83"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.xib8605245024#636"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/GoogleMapViewController.nib /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/GoogleMapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.xib
+s324039652.428966
+e324039653.058083
+r1
+xCompileXIB
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.xib
+lSLF07#2@35"CompileXIB Classes/InputMessage.xib324039652#324039653#0(0"0(0#0#72"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.xib8603222176#614"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputMessage.nib /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputMessage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.xib
+s324039914.886030
+e324039915.539617
+r1
+xCompileXIB
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.xib
+lSLF07#2@36"CompileXIB Classes/InputPassword.xib324039914#324039915#0(0"0(0#0#73"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.xib8623355904#616"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/InputPassword.nib /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/InputPassword.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib
+s322827499.350542
+e322827499.864132
+r1
+xCompileXIB
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib:17: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'buttonBackPressed:' selector of 'File's Owner', but 'buttonBackPressed:' is no longer defined on 'SecondMainScreen'.
+lSLF07#2@39"CompileXIB Classes/SecondMainScreen.xib322827499#322827499#0(322"/* com.apple.ibtool.document.warnings *//Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib:17: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'buttonBackPressed:' selector of 'File's Owner', but 'buttonBackPressed:' is no longer defined on 'SecondMainScreen'.1(22@190"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'buttonBackPressed:' selector of 'File's Owner', but 'buttonBackPressed:' is no longer defined on 'SecondMainScreen'.322827499#18446744073709551615#0#0(6@76"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib322827497#17#0#17#0#0"0(0#0#76"/Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib8619125792#622"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/SecondMainScreen.nib /Users/rouis/Public/iPhone/example/TaptraceCopy/Classes/SecondMainScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/GoogleMapViewController.xib
+s324043516.747888
+e324043517.181194
+r1
+xCompileXIB
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/GoogleMapViewController.xib
+lSLF07#2@38"CompileXIB GoogleMapViewController.xib324043516#324043517#0(0"0(0#0#75"/Users/rouis/Public/iPhone/example/TaptraceCopy/GoogleMapViewController.xib8626277568#628"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/GoogleMapViewController.nib /Users/rouis/Public/iPhone/example/TaptraceCopy/GoogleMapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/MainWindow.xib
+r0
+
+CCompileXIB /Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopyViewController.xib
+s323600095.568170
+e323600096.247659
+r1
+xCompileXIB
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopyViewController.xib
+lSLF07#2@41"CompileXIB TaptraceCopyViewController.xib323600095#323600096#0(0"0(0#0#78"/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopyViewController.xib8630060768#634"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopyViewController.nib /Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopyViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapConfig.plist TapConfig.plist
+s321461451.066946
+e321461451.090233
+r1
+xCopyPlistFile
+x/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapConfig.plist
+xTapConfig.plist
+lSLF07#2@20"Copy TapConfig.plist321461451#321461451#0(0"0(0#0#51"/Users/rouis/Documents/TaptraceCopy/TapConfig.plist8613659168#389"    cd /Users/rouis/Documents/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 TapConfig.plist --outdir /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app0#
+
+CCopyPlistFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapConfig.plist TapConfig.plist
+r0
+
+CCopyPlistFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapSetting.plist TapSetting.plist
+s323881414.211461
+e323881414.248851
+r1
+xCopyPlistFile
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TapSetting.plist
+xTapSetting.plist
+lSLF07#2@21"Copy TapSetting.plist323881414#323881414#0(0"0(0#0#64"/Users/rouis/Public/iPhone/example/TaptraceCopy/TapSetting.plist8619399488#414"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 TapSetting.plist --outdir /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app0#
+
+CCpResource build/Debug-iphonesimulator/TaptraceCopy.app/message.txt message.txt
+s322895322.264325
+e322895322.270566
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TaptraceCopy.app/message.txt
+xmessage.txt
+lSLF07#2@16"Copy message.txt322895322#322895322#0(0"0(0#0#59"/Users/rouis/Public/iPhone/example/TaptraceCopy/message.txt8620661568#501"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rouis/Public/iPhone/example/TaptraceCopy/message.txt /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app0#
+
+CGenerateDSYMFile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+s321632502.908406
+e321632502.932729
+r1
+xGenerateDSYMFile
+x/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM
+x/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TaptraceCopy.app.dSYM build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy321632502#321632502#0(0"0(0#0#93"/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy8627239616#389"    cd /Users/rouis/Documents/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy -o /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM0#
+
+CGenerateDSYMFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+s324043626.953405
+e324043626.979435
+r1
+xGenerateDSYMFile
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TaptraceCopy.app.dSYM build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy324043626#324043626#0(0"0(0#0#105"/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy8623894464#425"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app.dSYM0#
+
+CLd /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy normal i386
+s321632502.879906
+e321632502.908292
+r1
+xLd
+x/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+xnormal
+xi386
+lSLF07#2@98"Link /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy321632502#321632502#0(0"0(0#0#0"8635209504#952"    cd /Users/rouis/Documents/TaptraceCopy    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -filelist /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopy.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy0#
+
+CLd /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy normal i386
+s324043626.922753
+e324043626.953290
+r1
+xLd
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy
+xnormal
+xi386
+lSLF07#2@110"Link /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy324043626#324043626#0(0"0(0#0#0"8624047392#1012"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -filelist /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/Objects-normal/i386/TaptraceCopy.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/TaptraceCopy0#
+
+CProcessInfoPlistFile /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist TaptraceCopy-Info.plist
+s321552752.586161
+e321552752.590103
+r1
+xProcessInfoPlistFile
+x/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist
+xTaptraceCopy-Info.plist
+lSLF07#2@31"Process TaptraceCopy-Info.plist321552752#321552752#0(0"0(0#0#59"/Users/rouis/Documents/TaptraceCopy/TaptraceCopy-Info.plist32370056120631408#485"    cd /Users/rouis/Documents/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TaptraceCopy-Info.plist -genpkginfo /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist TaptraceCopy-Info.plist
+s323599995.803965
+e323599995.823407
+r1
+xProcessInfoPlistFile
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist
+xTaptraceCopy-Info.plist
+lSLF07#2@31"Process TaptraceCopy-Info.plist323599995#323599995#0(0"0(0#0#71"/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopy-Info.plist8627093056#521"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TaptraceCopy-Info.plist -genpkginfo /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app/Info.plist0#
+
+CProcessPCH /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch.gch TaptraceCopy_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321029491.783338
+e321029492.819135
+r1
+xProcessPCH
+x/var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch.gch
+xTaptraceCopy_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TaptraceCopy_Prefix.pch321029491#321029492#0(0"0(0#0#59"/Users/rouis/Documents/TaptraceCopy/TaptraceCopy_Prefix.pch8611017536#1871"    cd /Users/rouis/Documents/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Documents/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -c /Users/rouis/Documents/TaptraceCopy/TaptraceCopy_Prefix.pch -o /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-cdsypkbpwgcsngbptjpqgyjnotyj/TaptraceCopy_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch.gch TaptraceCopy_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321644251.321358
+e321644252.115294
+r1
+xProcessPCH
+x/var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch.gch
+xTaptraceCopy_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TaptraceCopy_Prefix.pch321644251#321644252#0(0"0(0#0#71"/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopy_Prefix.pch8698940544#1991"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -c /Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopy_Prefix.pch -o /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-ecpwpwgivuucdphkrrnndydkjdtv/TaptraceCopy_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch.pth TaptraceCopy_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s322818579.287071
+e322818579.770805
+r1
+xProcessPCH
+x/var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch.pth
+xTaptraceCopy_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@34"Precompile TaptraceCopy_Prefix.pch322818579#322818579#0(0"0(0#0#71"/Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopy_Prefix.pch8618730656#1982"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-generated-files.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-own-target-headers.hmap -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-all-target-headers.hmap -iquote /Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/TaptraceCopy-project-headers.hmap -F/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/include -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources/i386 -I/Users/rouis/Public/iPhone/example/TaptraceCopy/build/TaptraceCopy.build/Debug-iphonesimulator/TaptraceCopy.build/DerivedSources -c /Users/rouis/Public/iPhone/example/TaptraceCopy/TaptraceCopy_Prefix.pch -o /var/folders/g9/g90LxvGAFUaHcmy2jOOfAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaptraceCopy_Prefix-elxkmiinfiuginaosiijxqtjkezb/TaptraceCopy_Prefix.pch.pth0#
+
+CTouch /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+s321632502.932823
+e321632502.935538
+r1
+xTouch
+x/Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+lSLF07#2@86"Touch /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app321632502#321632502#0(0"0(0#0#0"8631227680#277"    cd /Users/rouis/Documents/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rouis/Documents/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app0#
+
+CTouch /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+s324043626.979530
+e324043626.982103
+r1
+xTouch
+x/Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app
+lSLF07#2@98"Touch /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app324043626#324043626#0(0"0(0#0#0"8623837248#301"    cd /Users/rouis/Public/iPhone/example/TaptraceCopy    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rouis/Public/iPhone/example/TaptraceCopy/build/Debug-iphonesimulator/TaptraceCopy.app0#
+
